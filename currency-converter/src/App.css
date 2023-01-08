@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+.input {
+  border: 1px solid #333;
+  border-radius: 5px;
+  padding: 3px;
+  width: 150px;
+}
+
+select {
+  margin-left: 10px;
+
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 35px;
+}
